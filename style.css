@@ -44,7 +44,12 @@ h2{
     grid-template-columns: 300px 300px;
     justify-items: center;
     align-items: center;
-
+}
+#JazGrid{
+  display: grid;
+  grid-template-columns: 300px 300px;
+  justify-items: center;
+  align-items: center;
 }
 .jasmineP {
   border-top: 6px solid #a5b6b4;
