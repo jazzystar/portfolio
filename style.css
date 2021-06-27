@@ -56,9 +56,10 @@ h2{
     filter: brightness(85%);
 }
 .jasmineBio{
-    color:#7d8584;
-    margin: 10px;
-    padding: 5px;
+  border-top: 6px solid #a5b6b4;
+  padding: 10px;
+  color: #7d8584;
+  margin: 10px;
 }
 #jasmineOL{
     color:#7d8584;
