@@ -107,8 +107,12 @@ footer{
     opacity: 0.6;
 }
 #jasmineImg{
-    height: 90;
-    width: 90;
+    height: 60;
+    width: 60;
+}
+#jasmineVid{
+    height: 240;
+    width: 320;
 }
 /*code taken and modified from https://css-tricks.com/the-shapes-of-css/*/
 #star-blue {
