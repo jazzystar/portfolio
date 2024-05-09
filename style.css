@@ -144,8 +144,8 @@ footer {
 }
 
 #projectImage {
-  width: 200px;
-  height: 300px;
+  width: 900;
+  height: 900;
   object-fit: cover;
 }
 
