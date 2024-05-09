@@ -140,8 +140,6 @@ footer {
 }
 
 #homePageCard {
-  height: 70;
-  width: 70;
   object-fit: cover;
 }
 
