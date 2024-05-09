@@ -134,8 +134,8 @@ footer {
 }
 
 #carouselImg {
-  width: 300px;
-  height: 337px;
+  width: 180px;
+  height: auto;
   object-fit: cover;
 }
 
