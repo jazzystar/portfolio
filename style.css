@@ -39,6 +39,7 @@ footer {
   border: 6px solid #7d8584;
   width: 200px;
   height: 240px;
+  object-fit: cover;
   margin-left: auto;
   margin-right: auto;
   background: linear-gradient(45deg, #CCFFFF, #FFCCCC);
@@ -130,6 +131,12 @@ footer {
 #jasmineVid {
   height: 240;
   width: 320;
+}
+
+#carouselImg {
+  width: 300px;
+  width: 300px; height: 337px;
+  object-fit: cover;
 }
 
 /*code taken and modified from https://css-tricks.com/the-shapes-of-css/*/
