@@ -142,7 +142,6 @@ footer {
 .card-img {
   height: 70;
   width: 70;
-  object-fit: cover;
 }
 
 /*code taken and modified from https://css-tricks.com/the-shapes-of-css/*/
