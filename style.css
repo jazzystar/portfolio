@@ -16,7 +16,7 @@ footer {
 
 #jasmineBody {
   padding: 20px;
-  margin: 20px;
+  margin: 5px;
   /*border: 12px double #a5b6b4;*/
   padding: 30px;
   background-color: white
@@ -26,7 +26,7 @@ footer {
   background: linear-gradient(45deg, #CCFFFF, #FFCCCC);
   padding: 30px;
   color: #7d8584;
-  margin: 15px;
+  margin: 5px;
 }
 
 #jasmine-head-border {
