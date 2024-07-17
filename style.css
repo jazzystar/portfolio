@@ -143,6 +143,22 @@ footer {
   object-fit: cover;
 }
 
+.flex-container {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  border: 1px solid #f4f4f4;
+  width: 300px;
+}
+
+.icon img {
+  height: 100px;
+  
+}
+.info label {
+  display: block;
+}
+
 .photo-grid{margin:5px 0;}
   .photo-grid .col {padding-left: 0 !important; padding-right: 0 !important;}
 
