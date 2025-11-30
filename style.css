@@ -29,6 +29,13 @@ footer {
   margin: 5px;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
 #jasmine-head-border {
   border-bottom: 12px solid #a5b6b4;
 }
